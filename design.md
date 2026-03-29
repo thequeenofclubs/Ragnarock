@@ -4,7 +4,7 @@ Ragnarock wasn't built in a day. This document will outline everything about the
 ## Hardware Choices
 I chose the W6-1139SIF Subwoofer driver since I needed something that was durable, had lots of travel (Xmax), good sensitivity, but without consuming too much power. The W6 has 12mm of Xmax, is very sensitive (produces 84dB with only one watt of power), and needs only 50 watts to reach its full potential. Comparable subwoofers require up to 400W just to match its performance.
 
-I chose the two tweeters for their sensitivity. They can produce 96dB with one watt of power, allowing them to reach extreme volumes with low power and therefore low heat. They also have paper cones, which reduces the amount of correction that needs to be done to the audio signal (see [here](/architect.md/#Linear Response Tuning) to learn more about this process.
+I chose the two tweeters for their sensitivity. They can produce 96dB with one watt of power, allowing them to reach extreme volumes with low power and therefore low heat. They also have paper cones, which reduces the amount of correction that needs to be done to the audio signal (see [here](/architect.md/#linear-response-tuning) to learn more about this process.
 
 I chose the amplifier because it has a fixed-gain, high efficiency architecture. It allows for predictable output from the drivers given a specific output from the DSP. Without this, the DSP would have no idea what sound the speaker is actually producing!
 
