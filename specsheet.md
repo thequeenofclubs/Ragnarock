@@ -27,6 +27,19 @@ Reflex Specs: 20mm Xmax, 40mm P2P, 8-inch Cone, Variable Compliance Suspension
 
 Amplifier: Fosi Audio v1.0G (100W RMS, 144W Peak) 
 
+## Enclosure
+Internal Volume: 9.5L
+
+Material: Aspen 5-Layer Hardwood
+
+Bracing: Single-Axis 1x1in Crossbrace
+
+Damping: Internal Fiberglass Damping | 4-Face Coverage
+
+Weight: 9.4 kg | 20.7 Lb
+
+Exterior Dimensions: 8 x 8 x 12.5 in (20.4 x 20.4 x 31.8cm)
+
 
 ## Signal Processing (DSP)
 Hardware: RasPi + HiFiBerry DAC+ADC @ 24/384kHz  
