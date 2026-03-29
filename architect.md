@@ -76,7 +76,7 @@ Architect runs in bare metal (pure RISC-V ARM assembly) on the Raspberry Pi, usi
 The workload is divided between the cores, which is how Architect can do so much processing so quickly. 
 Core 0 handles tuning, for both linearity and psychoacoustics. Core 1 handles the compression bands. Core 2 handles the interaction between ValOS and Architect, as well as collecting and managing the telemetry data.
 
-Architect is the just correction software. It runs in tandem environment I call ValOS, which runs on core 3 of the Pi. 
+Architect is the just correction software. It runs in tandem with an environment I call ValOS, which runs on core 3 of the Pi. 
 ValOS is a custom revision of Debian that operates on a shared-memory architecture.
 ValOS Hosts a WebUI which allows for modification of parameters, tweaking tuning, and monitoring the aforementioned telemetry data for debugging or analysis. 
 
@@ -87,6 +87,6 @@ This allows for toggling between tuning profiles, adjusting tuning without reboo
 Additionally, ValOS handles the bluetooth and AirPlay servers, which allow Ragnarock to be wirelessly connectable.
 
 ### Internal Linking
-It interacts with the Architect software itself via a shared memory architecture. Memory is shared between the two, for low-latency, high-speed communication between the two. ValOS places the audio samples from Bluetooth or AirPlay directly into a fixed location. Architect then copies that audio, on a sample-by-sample basis directly into a register for processing. Once complete, that sample is stored in the memory address which the DAC uses. 
+It interacts with the Architect software itself via a shared memory architecture. Memory is shared between the two, for low-latency, high-speed communication. ValOS places the audio samples from Bluetooth or AirPlay directly into a fixed location, summing them if a signal is present from both sources. Architect then copies that audio, on a sample-by-sample basis directly into a register for processing. Once complete, that sample is stored in the memory address which the DAC uses. 
 
 This allows for a very low latency signal chain despite the massive amount of processing.
