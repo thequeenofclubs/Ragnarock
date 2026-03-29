@@ -5,7 +5,7 @@ This page contains all data about the health risks and required precautions whil
 
 [View Document](/hh.md) <br>
 
-## Ragnarock Specification Sheet
+## Specification Sheet
 A higher-level specification sheet containing key measurements and capabilities for at-a-glance reference.
 
 [View Document](/specsheet.md) <br>
