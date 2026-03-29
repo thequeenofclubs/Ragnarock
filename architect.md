@@ -1,6 +1,9 @@
 ## Architect DSP: A Deep Dive
 Architect is my codename for the DSP that powers Ragnarock. It's why Ragnarock is able to produce the sound quality and volume that it does.
 
+## Main Goal
+Architect was designed to embarass commercially available fixed DSP, by employing a mixture of simple and intuitive techniques with bleeding edge technology. I didn't want to settle for anything I considered anything less than perfect, so I did it myself. 
+
 ## Hardware
 The DSP runs, at its core, on a Raspberry Pi. It's paired with a HiFiBerry DAC + ADC combo, allowing the pi to control the amplifier directly, as well as receive analog audio from the 3.5mm jack on the back of the speaker.
 The Pi splits the audio signal into two channels. One channel contains the bass tones of the signal, and the other contains the treble. The midrange (tones in-between bass and treble) are divided between the two at a specific point, known as the crossover frequency. 
@@ -77,11 +80,13 @@ Architect is the just correction software. It runs in tandem environment I call 
 ValOS is a custom revision of Debian that operates on a shared-memory architecture.
 ValOS Hosts a WebUI which allows for modification of parameters, tweaking tuning, and monitoring the aforementioned telemetry data for debugging or analysis. 
 
+### User Interaction
 ValOS supports remote access via the WebUI, via VNC for graphical desktop tasks, or via SSH for quick fixes.
 This allows for toggling between tuning profiles, adjusting tuning without reboots, and allows for per-input tuning profiles.
 
 Additionally, ValOS handles the bluetooth and AirPlay servers, which allow Ragnarock to be wirelessly connectable.
 
+### Internal Linking
 It interacts with the Architect software itself via a shared memory architecture. Memory is shared between the two, for low-latency, high-speed communication between the two. ValOS places the audio samples from Bluetooth or AirPlay directly into a fixed location. Architect then copies that audio, on a sample-by-sample basis directly into a register for processing. Once complete, that sample is stored in the memory address which the DAC uses. 
 
 This allows for a very low latency signal chain despite the massive amount of processing.
