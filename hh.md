@@ -71,7 +71,7 @@ The warning signs show up *after* the exposure:
 - A sense of fullness or pressure  
 - Needing to turn up the volume more than usual  
 
-These are signs of **temporary threshold shif (TTS)t** — your ears’ way of saying they were pushed too far. It often fades, but it’s also a sign that damage is accumulating.
+These are signs of **temporary threshold shift (TTS)**. It's your ears’ way of saying they were pushed too far. It often fades, but it’s also a sign that damage is accumulating. Incur this damage too many times, or too severely, and the TTS will never fade.
 
-At the highest levels that this speaker can produce, **TTS occurs instantly and without warning.**
+At the highest levels that this speaker can produce, at 1m, **TTS occurs instantly and without warning**.  
 
