@@ -19,7 +19,7 @@ MF/HF Driver: "Bonnie & Clyde" — Dual 2" (500Hz+)
 
 MF/HF Power: 0-20W RMS, 0-44W Peak (Total)
 
-Reflex Type: Passive Radiator | Tuned at 31Hz        
+Reflex Type: Passive Radiator - Tuned at 31Hz        
 
 Reflex Unit: "Riptide" - Dayton Epique E180HE-PR     
 
@@ -34,9 +34,9 @@ Material: Aspen 5-Layer Hardwood
 
 Bracing: Single-Axis 1x1in Crossbrace
 
-Damping: Internal Fiberglass Damping | 4-Face Coverage
+Damping: Internal Fiberglass Damping with 4-Face Coverage
 
-Weight: 9.4 kg | 20.7 Lb
+Weight: 20.7lb (9.4kg)
 
 Exterior Dimensions: 8 x 8 x 12.5 in (20.4 x 20.4 x 31.8cm)
 
