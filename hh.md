@@ -6,6 +6,12 @@
 
 **Operators of this speaker acknowledge their responsibility to protect the hearing health of any listener, and will be solely responsible if a listener develops hearing damage**.
 
+### How This Affects Listeners
+<strong style="color: lime">At low-moderate listening levels (~82dB or less), this speaker is completely safe for long-term use in any environment, for any listener.</strong>
+
+Maximum volume must be used only for brief demonstrations, or in wide open outdoor environments. 
+> Note: Children are significantly more vulnerable to loud sound and should never be near the speaker at high output.
+
 ## A Deeper Dive
 #### Quick Facts:
 - Safe long‑term listening: **≤ 85 dB**
