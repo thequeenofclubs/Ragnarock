@@ -1,7 +1,7 @@
 ## Hearing Health
 
 ### Important Information You Need To Know
-**This speaker can produce SPL levels exceeding 110dB(A)**. Exposure to this sound level causes hearing damage, which is irreversible. This speaker produces this level when measured at 1 meter (3 feet). Exposure to maximum volume at less than 1 meter results in exposure to >120dB(A), which can instantly inflict both tinnitus and permanent hearing loss on children or sensitive persons. In some rare cases, exposure to this sound level can cause partial deafness within seconds.
+**This speaker can produce SPL levels exceeding 110dB(A)**.  This level is present when measured at 1 meter (3 feet). Exposure to this sound level causes hearing damage, which is not always reversible and can be permanent with extended listening durations. Exposure to maximum volume at less than 1 meter results in exposure to >120dB(A), which can inflict tinnitus and/or permanent hearing loss on children or sensitive persons before they are able to react. Individuals will not feel discomfort and will be unaware that these effects are occurring, even in healthy adults. In some rare cases, exposure to this sound level can cause partial deafness within seconds.
 <h4 style="color: red">DO NOT ALLOW LISTENERS TO COME WITHIN 3 METERS OF THE SPEAKER WHILE PLAYING AT MAXIMUM VOLUME!</h4>
 
 **Operators of this speaker acknowledge their responsibility to protect the hearing health of any listener, and will be solely responsible if a listener develops hearing damage**.
@@ -37,7 +37,7 @@ Sound intensity drops off fast with distance. If you double your distance from a
 
 This is why:
 
-- Standing right in front of a this speaker can hit 110–120 dB  
+- Standing right in front of this speaker can hit 110–120 dB  
 - The back of the room might be 95–100 dB  
 
 In a small room, especially in nearfield setups, it’s easy to reach “concert loud” without realizing how little distance your ears have from the speaker.
