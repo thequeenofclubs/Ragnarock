@@ -2,12 +2,13 @@
 
 ### Important Information You Need To Know
 **This speaker can produce SPL levels exceeding 110dB(A)**.  This level is present when measured at 1 meter (3 feet). Exposure to this sound level causes temporary hearing damage, which is typically reversible, but can become permanent with extended listening durations. Exposure to maximum volume at less than 1 meter results in exposure to >120dB(A), which can inflict tinnitus and/or permanent hearing loss on children or sensitive persons before they are able to react. Individuals will not feel discomfort and will be unaware that these effects are occurring, even in healthy adults. In some rare cases, exposure to this sound level can cause partial deafness within seconds.
-<h4 style="color: red">DO NOT ALLOW LISTENERS TO COME WITHIN 3 METERS OF THE SPEAKER WHILE PLAYING AT MAXIMUM VOLUME!</h4>
+
+<strong style="color: red">Do not allow listeners to come within 3m of the speaker when playing at maximum volume.</strong>
 
 **Operators of this speaker acknowledge their responsibility to protect the hearing health of any listener, and will be solely responsible if a listener develops hearing damage**.
 
 ### How This Affects Listeners
-<strong style="color: lime">At low-moderate listening levels (~82dB or less), this speaker is completely safe for long-term use in any environment, for any listener.</strong>
+<strong style="color: green">At low-moderate listening levels (~82dB or less), this speaker is completely safe for long-term use in any environment, for any listener.</strong>
 
 Maximum volume must be used only for brief demonstrations, or in wide open outdoor environments. 
 > Note: Children are significantly more vulnerable to loud sound and should never be near the speaker at high output.
