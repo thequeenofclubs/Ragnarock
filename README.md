@@ -19,3 +19,7 @@ Ragnarock is powered by Architect DSP. This page contains both a summary and det
 This page contains a deep dive into the process of constructing this speaker, the design goals, and the iteration timeline.
 
 [View Document](/design.md) <br>
+
+
+## Wiki
+[Go To Wiki](/Wiki/index.md)
