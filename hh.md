@@ -1,7 +1,7 @@
 ## Hearing Health
 
 ### Important Information You Need To Know
-**This speaker can produce SPL levels exceeding 110dB(A)**.  This level is present when measured at 1 meter (3 feet). Exposure to this sound level causes temporary hearing damage, which is typically reversible, but can become permanent with extended listening durations. Exposure to maximum volume at less than 1 meter results in exposure to >120dB(A), which can inflict tinnitus and/or permanent hearing loss on children or sensitive persons before they are able to react. Individuals will not feel discomfort and will be unaware that these effects are occurring, even in healthy adults. In some rare cases, exposure to this sound level can cause partial deafness within seconds.
+<strong>This speaker can produce SPL levels exceeding <p style="color:#aa8800">110dB(A).</p></strong> This level is present when measured at 1 meter (3 feet). Exposure to this sound level causes temporary hearing damage, which is typically reversible, but can become permanent with extended listening durations. Exposure to maximum volume at less than 1 meter results in exposure to <p style="color:#aa4400">>120dB(A).</p>, which can inflict tinnitus and/or permanent hearing loss on children or sensitive persons before they are able to react. Individuals will not feel discomfort and will be unaware that these effects are occurring, even in healthy adults. In some rare cases, exposure to this sound level can cause partial deafness within seconds.
 
 <strong style="color: red">Operators must not allow listeners to come within 3 meters of the speaker when playing at maximum volume.</strong>
 
