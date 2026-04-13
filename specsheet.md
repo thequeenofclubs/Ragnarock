@@ -42,9 +42,8 @@ Exterior Dimensions: 8 x 8 x 12.5 in (20.4 x 20.4 x 31.8cm)
 
 
 ## Signal Processing (DSP)
-Hardware: RasPi + HiFiBerry DAC+ADC @ 24/384kHz  
-
-Software: "The Architect" v5 - 102-band Process:
+Hardware: RasPi + HiFiBerry DAC+ADC @ 24/192kHz  
+Software: "The Architect" v5 - 102-band Process @ 24-bit/384kHz:
 - 64-Band Isophonic Compressor
 - 38-Band Driver Protection Compressor
 - Linear-Phase Dynamic Crossover   
