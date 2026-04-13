@@ -72,7 +72,7 @@ Architect determines which corrections, protections, and processing is needed ba
 This allows Architect to recalculate compression thresholds in real-time, adapt to driver aging, and prevent damage without the user noticing. These data are then used to protect the drivers, and maintain safe operation.
 
 ## Operating System
-Architect runs in bare metal (pure RISC-V ARM assembly) on the Raspberry Pi, using cores 0-2. 
+Architect runs in bare metal (pure ARM assembly) on the Raspberry Pi, using cores 0-2. 
 The workload is divided between the cores, which is how Architect can do so much processing so quickly. 
 Core 0 handles tuning, for both linearity and psychoacoustics. Core 1 handles the compression bands. Core 2 handles the interaction between ValOS and Architect, as well as collecting and managing the telemetry data.
 
