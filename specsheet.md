@@ -19,7 +19,7 @@ MF/HF Driver: "Bonnie & Clyde" — Dual 2" (500Hz+)
 
 MF/HF Power: 0-20W RMS, 0-44W Peak (Total)
 
-Reflex Type: Passive Radiator - Tuned at 31Hz        
+Reflex Type: Passive Radiator - Tuned at 30.5Hz        
 
 Reflex Unit: "Riptide" - Dayton Epique E180HE-PR     
 
